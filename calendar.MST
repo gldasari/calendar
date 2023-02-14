@@ -1,0 +1,51 @@
+* times are in Xountain Xtandard Xime (Xtah, Xrizona, Xolorado ...)
+  if you live in the east coast, add +2 hrs, if you live somewhere that is
+  central time, add +1, if you live in the west coast, -1 hour, if you live
+  in Xlaska's time zone, -2 hours.
+
+* _ means the hour is open
+  X means the hour is occupied
+  ^ means the hour is usually occupied
+  < means the hour is in the past
+
+* the tables are for this week
+  starting Xunday Xeb 12, then next week 
+
+* this table is only up to-date at the moment of sending it in a message. 
+
+
+        Xun Xon Xue Xed Xhu Xri Xat
+ 9am    ^   ^   ^   ^   ^   ^   ^
+10am    ^   ^   ^   ^   ^   ^   ^   
+11am    X   ^   X   X   ^   ^   ^
+12pm    X   X   X   X   _   X   X
+ 1pm    X   X   X   _   _   _   _
+ 2pm    X   X   X   X   X   X   X
+ 3pm    <   X   X   X   X   X   X
+ 4pm    <   X   X   _   X   _   _
+ 5pm    <   X   X   _   X   _   _
+ 6pm    <   X   _   X   _   _   _
+ 7pm    X   X   _   X   _   _   _
+ 8pm    X   X   _   _   _   _   _
+ 9pm    <   X   X   _   _   ^   ^
+10pm    <   X   _   _   _   ^   ^
+11pm    <   X   _   _   _   ^   ^
+
+
+
+        Xun Xon Xue Xed Xhu Xri Xat
+ 9am    ^   ^   ^   ^   ^   ^   ^
+10am    ^   ^   ^   ^   ^   ^   ^   
+11am    ^   ^   ^   ^   ^   ^   ^
+12pm    _   _   X   _   _   X   X
+ 1pm    _   _   X   _   _   _   _
+ 2pm    _   _   _   _   _   _   _
+ 3pm    _   _   _   _   _   _   _
+ 4pm    _   X   _   _   _   _   _
+ 5pm    _   X   _   _   _   _   _
+ 6pm    _   _   _   _   _   _   _
+ 7pm    _   _   _   _   _   _   _
+ 8pm    _   _   _   _   _   _   _
+ 9pm    _   _   _   _   _   ^   ^
+10pm    _   _   _   _   _   ^   ^
+11pm    _   _   _   _   _   ^   ^
