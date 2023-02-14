@@ -1,0 +1,46 @@
+* _ means the hour is open
+  X means the hour is occupied
+  ^ means the hour is usually occupied
+  < means the hour is in the past
+
+* the tables are for this week (Sunday -> Saturday)
+  then next week 
+
+* refresh the page to make sure this file is up to-date
+
+
+        Sun Mon Tue Wed Thu Fri Sat
+ 7am    ^   ^   ^   ^   ^   ^   ^   
+ 8am    ^   ^   ^   ^   ^   ^   ^   
+ 9am    X   ^   X   X   ^   ^   ^   
+10am    X   X   X   X   _   X   X   
+11am    X   X   X   _   _   _   _   
+12pm    X   X   X   X   X   X   X   
+ 1pm    <   X   X   X   X   X   X   
+ 2pm    <   X   X   _   X   _   _   
+ 3pm    <   X   X   _   X   _   _   
+ 4pm    <   X   _   X   _   _   _   
+ 5pm    X   X   _   X   _   _   _   
+ 6pm    X   X   _   _   _   _   _   
+ 7pm    <   X   X   _   _   ^   ^   
+ 8pm    <   X   _   _   _   ^   ^   
+ 9pm    <   X   _   _   _   ^   ^   
+
+
+
+        Sun Mon Tue Wed Thu Fri Sat
+ 7am    ^   ^   ^   ^   ^   ^   ^   
+ 8am    ^   ^   ^   ^   ^   ^   ^   
+ 9am    ^   ^   ^   ^   ^   ^   ^   
+10am    _   _   X   _   _   X   X   
+11am    _   _   X   _   _   _   _   
+12pm    _   _   _   _   _   _   _   
+ 1pm    _   _   _   _   _   _   _   
+ 2pm    _   X   _   _   _   _   _   
+ 3pm    _   X   _   _   _   _   _   
+ 4pm    _   _   _   _   _   _   _   
+ 5pm    _   _   _   _   _   _   _   
+ 6pm    _   _   _   _   _   _   _   
+ 7pm    _   _   _   _   _   ^   ^   
+ 8pm    _   _   _   _   _   ^   ^   
+ 9pm    _   _   _   _   _   ^   ^   
