@@ -18,9 +18,9 @@
  3pm    X   X   X   X   X   _   X   
  4pm    <   X   X   X   X   X   X   
  5pm    <   X   <   X   X   X   _   
- 6pm    <   X   <   X   X   _   _   
- 7pm    <   X   X   X   X   _   _   
- 8pm    X   X   X   X   X   _   _   
+ 6pm    <   X   <   X   X   x_  x _   
+ 7pm    <   X   X   X   X   x_  x _   
+ 8pm    X   X   X   X   X   x_  x _   
  9pm    X   X   <   X   X   _   _   
 10pm    <   X   X   X   _   ^   ^   
 11pm    <   X   X   X   _   ^   ^   
